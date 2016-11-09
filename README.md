@@ -5,4 +5,4 @@ Codeigniter Ion Auth with MaterializeCSS is based on Ion Auth 2 by Ben Edmunds h
 - Copy ionmaterialize folder on your server directory.
 - Execute SQL files depending of your DB server.
 - Edit config values for database with your credentials, in application/config/database.php.
-- Test your installation.
+- Test your installation, the default username is: administrator, the default password is: password.
